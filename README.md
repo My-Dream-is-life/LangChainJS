@@ -6,20 +6,20 @@
 
 ### Directory
 
-LangChainJS/
-├─ assets/ # Static resource directory
-├─ config/ # Configuration file directory
-│  ├─ dotenv.ts # Read the.env configuration file
-│  ├─ model.ts # Model definition and configuration file
-├─ node_modules/ # Project Dependency Directory
-├─ src/ # Source file directory
-├─ .env # Environment configuration file
-├─ .gitignore # git ignores files
-├─ .nvmrc # node version control file
-├─ index.ts # Main entry file
-├─ package.json # Dependency package management file
-├─ pnpm-lock.yaml # Dependency packet lock
-├─ README.md # Project description file
+LangChainJS/  
+├─ assets/ # Static resource directory  
+├─ config/ # Configuration file directory  
+│  ├─ dotenv.ts # Read the.env configuration file  
+│  ├─ model.ts # Model definition and configuration file  
+├─ node_modules/ # Project Dependency Directory  
+├─ src/ # Source file directory  
+├─ .env # Environment configuration file  
+├─ .gitignore # git ignores files  
+├─ .nvmrc # node version control file  
+├─ index.ts # Main entry file  
+├─ package.json # Dependency package management file  
+├─ pnpm-lock.yaml # Dependency packet lock  
+├─ README.md # Project description file  
 ├─ tsconfig.json # TS configuration file
 
 ### .env
